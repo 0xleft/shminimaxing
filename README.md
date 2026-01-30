@@ -1,5 +1,7 @@
 # shminimaxing
 
+Built in collaboration with [@FBPinguin](https://github.com/FBPinguin)
+
 ## Build
 
 
