@@ -2,8 +2,13 @@
 
 Built in collaboration with [@FBPinguin](https://github.com/FBPinguin)
 
-## Build
+## Run tests
 
+```bash
+./run_tests.sh
+```
+
+## Build
 
 ```bash
 cmake . DJAVA_HOME=<your java home>
